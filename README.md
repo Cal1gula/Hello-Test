@@ -1,3 +1,3 @@
 # Hello-Test
 
-# Added some text here to test commits
+Added some text here to test commits
